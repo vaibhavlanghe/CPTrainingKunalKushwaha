@@ -1,2 +1,1 @@
-# CPTrainingKunalKushwaha
-This repository is for CP training with Kunal Kushwaha CommonClassroom
+hello! Akshat this side. this is my first pull request. thanks a lot for the guidance
